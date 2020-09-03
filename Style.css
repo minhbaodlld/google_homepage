@@ -22,6 +22,7 @@ a{
     text-align: center;
 }
 
+/*Search box + search buttons start*/
 #search{
     text-align: center;
     border: 1px solid #D1D1D1;
@@ -54,11 +55,15 @@ a{
     font-size: 15px;
     padding: 5px 10px 5px 10px;
 }
+/*Search box + search buttons end*/
+
 
 #empty{
     padding: 100px;
 }
 
+
+/*Bottom navigation bar starts*/
 #footer{
     background: #EEEEEE;
     font-size: 13px;
@@ -72,6 +77,4 @@ a{
    width: 55%;
 }
 
-#footer div a{
-    text-align: right;
-}
+/*Bottom navigation bar ends*/
